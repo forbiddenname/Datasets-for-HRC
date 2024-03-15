@@ -1,0 +1,10 @@
+pour water from cup into bowl
+0 0
+4 8
+5 8
+3 3
+2 4
+9 3
+6 4
+5 3
+1 1
